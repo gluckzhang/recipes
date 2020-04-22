@@ -2,7 +2,7 @@
 date: 2020-03-31
 title: Pineapple Cake (凤梨酥)
 categories:
-  - Cakes
+  - Cakes & Cookies
 featured_image: /images/recipes/2020-03-31-pineapple-cake-0.jpg
 recipe:
   servings: 9 cakes
