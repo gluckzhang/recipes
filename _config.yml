@@ -2,7 +2,7 @@
 # Site
 
 title: Siyi's Recipes
-url: "https://recipes.gluckzhang.com/"
+url: "https://www.siyi.online/"
 baseurl:
 google_analytics_key: UA-112458294-2
 newsletter_action:
@@ -18,7 +18,7 @@ author:
 social:
   name: Siyi's Recipes
   links:
-    - https://recipes.gluckzhang.com
+    - https://www.siyi.online
 
 # -----
 # Build
