@@ -14,7 +14,9 @@ layout: default
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+		{% if page.recipe.cook %}
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+		{% endif %}
 		{% if page.recipe.video %}
 		<li title="Video">{% include recipe-icon.html icon="video" %}<span><a href="{{ page.recipe.video }}" target="_blank">{{ page.recipe.video }}</a></span></li>
 		{% endif %}
