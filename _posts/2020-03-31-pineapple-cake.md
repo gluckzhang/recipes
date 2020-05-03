@@ -22,3 +22,9 @@ Pineapple Cake.
 ![pic](/images/recipes/2020-03-31-pineapple-cake-3.jpg)
 
 ![pic](/images/recipes/2020-03-31-pineapple-cake-4.jpg)
+
+![pic](/images/recipes/2020-03-31-pineapple-cake-5.jpg)
+
+![pic](/images/recipes/2020-03-31-pineapple-cake-6.jpg)
+
+![pic](/images/recipes/2020-03-31-pineapple-cake-7.jpg)
