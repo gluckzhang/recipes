@@ -22,4 +22,6 @@ Dalgona Coffee.
 
 ![pic](/images/recipes/2020-05-01-dalgona-coffee-4.jpg)
 
+![pic](/images/recipes/2020-05-01-dalgona-coffee-5.jpg)
+
 Wikipedia: [https://en.wikipedia.org/wiki/Dalgona_coffee](https://en.wikipedia.org/wiki/Dalgona_coffee)
