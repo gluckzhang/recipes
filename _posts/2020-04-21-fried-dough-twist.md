@@ -20,3 +20,11 @@ Fried Dough Twist.
 ![pic](/images/recipes/2020-04-21-fried-dough-twist-2.jpg)
 
 ![pic](/images/recipes/2020-04-21-fried-dough-twist-3.jpg)
+
+![pic](/images/recipes/2020-04-21-fried-dough-twist-4.jpg)
+
+![pic](/images/recipes/2020-04-21-fried-dough-twist-5.jpg)
+
+![pic](/images/recipes/2020-04-21-fried-dough-twist-6.jpg)
+
+![pic](/images/recipes/2020-04-21-fried-dough-twist-7.jpg)
